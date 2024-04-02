@@ -11,6 +11,8 @@ Parsing is performed from the main page of coinmarketcap.com website at the mome
 The application can be launched using IDE tools or opened with the Parser-1.0.jar executable file.<br/>
 Java 17 or newer version must be installed on the user's PC for the application to work correctly.
 
+<hr>
+
 ### О приложении
 
 Данное приложение представляет собой интерфейс с таблицей данных о криптовалютах.
